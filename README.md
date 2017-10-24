@@ -7,4 +7,4 @@ The chatbot uses optimised brain file which loads in approx 9-11 seconds. It loa
  
  **pip install aiml**
  
- *Note: It is for Python 2xx
+ *Note: It is for Python 2xx*
